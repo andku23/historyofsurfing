@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+
+body{
+  background-image: url("https://static.pexels.com/photos/416676/pexels-photo-416676.jpeg");
+  color: black;
+  font-family: "Franklin Gothic Book";
+  text-align:center;
+  margin: 0px 50px 0px 50px;
+}
+
+h2{
+  font-family: "Baskerville Old Face";
+}
+
+.profile{
+
+  margin: 10px 10px 10px 10px;
+
+
+
+
+
+}
+
+h3{
+  font-family: "Franklin Gothic Book";
+  color: darksalmon;
+  background-color: rgba(100,100,100,100);
+}
+
+.profile img{
+  width:100%;
+
+
+}
+
+.profile p{
+  position:absolute;
+  margin-top:-50px;
+  margin-left:10px;
+  text-align:center;
+}
+
+.flex-container{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  height:200px;
+}
